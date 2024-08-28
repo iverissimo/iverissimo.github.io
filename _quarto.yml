@@ -21,7 +21,7 @@ format:
     theme: 
       - lux #minty #
       - custom.scss
-    css: styles.css
+    #css: styles.css
     #navbarcolor: "#4d9488"
     toc: true
     aliases: 
