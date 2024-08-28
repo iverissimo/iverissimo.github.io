@@ -1,0 +1,23 @@
+---
+title: "Inês Silva Veríssimo"
+about:
+  template: jolla #jolla #trestles
+  image: docs/profile.jpg
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/iverissimo
+    - icon: linkedin
+      text: Linkedin
+      href: https://www.linkedin.com/in/isverissimo
+
+---
+
+### Data Scientist | Biomedical Engineer
+
+Driven by the desire to transform raw data into compelling narratives. 
+
+I pride myself on my keen eye for analytics, curiosity and creative thinking. Looking for a collaborative work environment where I can use data-driven approaches to discover new perspectives to old problems.
+
+
+

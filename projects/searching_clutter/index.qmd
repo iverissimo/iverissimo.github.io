@@ -1,0 +1,22 @@
+---
+categories:
+- academic research
+- statistics
+- eye movements
+#citation: true
+date: 2024-01-05
+date-format: "YYYY"
+description: 'How do we find what we are looking for? Understanding visual search through eye movements.'
+#google-scholar: true
+image: Fig_SearchDisplay.png
+title: Searching through clutter
+---
+
+When you look for something specific in a busy scene - like finding your friend in a crowd or spotting your keys on a cluttered table -, your brain and eyes work together to scan the area, picking out details that help you find what you're looking for. In this project, I analyzed eye movement patterns to investigate what aspects of a visual scene guide our attention (is it color? shape? size?).
+
+Want to know more about this topic? You can find the peer-reviewed publications [here](https://doi.org/10.1016/j.visres.2023.108342) or [here](https://doi.org/10.1167/jov.21.5.29).
+
+This work was presented at the [European Conference on Visual Perception](https://cyprusconferences.org/ecvp2023/) 2023 Edition, in Paphos, Cyprus.
+
+
+
