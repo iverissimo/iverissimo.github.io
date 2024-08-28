@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "projects/visuomotor_maps/index.html",
+    "href": "projects/visuomotor_maps/index.html",
+    "title": "Brain maps",
+    "section": "",
+    "text": "In this project I wanted to examine how the brain integrates information from different senses, like sight and touch. Using advanced MRI techniques, image processing and machine learning models, I created detailed maps of how the brain organizes visual and body-related information. Curious on how it looks? Click here to explore an inflated brain.\nThis work was presented at the Vision Sciences Society Annual Meeting 2022 Edition, in St. Pete Beach, Florida, USA. Click here to read the conference abstract."
+  },
+  {
+    "objectID": "projects/projects.html",
+    "href": "projects/projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Searching through clutter\n\n\n\n\n\n\n\nacademic research\n\n\nstatistics\n\n\neye movements\n\n\n\n\nHow do we find what we are looking for? Understanding visual search through eye movements.\n\n\n\n\n\n\nJan 5, 2024\n\n\n\n\n\n\n  \n\n\n\n\nBrain maps\n\n\n\n\n\n\n\nacademic research\n\n\nmachine learning\n\n\nimage processing\n\n\n\n\nUsing neuroimaging data and ML models to map the human visual and motor systems.\n\n\n\n\n\n\nDec 5, 2022\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects/searching_clutter/index.html",
+    "href": "projects/searching_clutter/index.html",
+    "title": "Searching through clutter",
+    "section": "",
+    "text": "When you look for something specific in a busy scene - like finding your friend in a crowd or spotting your keys on a cluttered table -, your brain and eyes work together to scan the area, picking out details that help you find what you’re looking for. In this project, I analyzed eye movement patterns to investigate what aspects of a visual scene guide our attention (is it color? shape? size?).\nWant to know more about this topic? You can find the peer-reviewed publications here or here.\nThis work was presented at the European Conference on Visual Perception 2023 Edition, in Paphos, Cyprus."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Inês Silva Veríssimo",
+    "section": "",
+    "text": "Data Scientist | Biomedical Engineer\nDriven by the desire to transform raw data into compelling narratives.\nI pride myself on my keen eye for analytics, curiosity and creative thinking. Looking for a collaborative work environment where I can use data-driven approaches to discover new perspectives to old problems."
+  }
+]

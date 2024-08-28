@@ -1,8 +1,10 @@
 project:
   type: website
+  output-dir: links
 
 website:
   title: "Inês S. Veríssimo"
+  #site-path: "/inesverissimo/"
   description: "Data Scientist | Biomedical Engineer"
   navbar:
     left:
@@ -22,3 +24,5 @@ format:
     css: styles.css
     #navbarcolor: "#4d9488"
     toc: true
+    aliases: 
+      - inesverissimo.html
