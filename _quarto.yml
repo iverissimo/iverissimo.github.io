@@ -1,6 +1,6 @@
 project:
   type: website
-  output-dir: links
+  output-dir: ISV
 
 website:
   title: "Inês S. Veríssimo"
