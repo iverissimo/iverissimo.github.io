@@ -26,5 +26,33 @@
     "title": "Inês Silva Veríssimo",
     "section": "",
     "text": "Data Scientist | Biomedical Engineer\nDriven by the desire to transform raw data into compelling narratives.\nI pride myself on my keen eye for analytics, curiosity and creative thinking. Looking for a collaborative work environment where I can use data-driven approaches to discover new perspectives to old problems."
+  },
+  {
+    "objectID": "docs/index.html",
+    "href": "docs/index.html",
+    "title": "Inês S. Veríssimo",
+    "section": "",
+    "text": "Click here to download my resume."
+  },
+  {
+    "objectID": "docs/index.html#work-experience",
+    "href": "docs/index.html#work-experience",
+    "title": "Inês S. Veríssimo",
+    "section": "Work Experience",
+    "text": "Work Experience\n\nResearcher | 2018 - 2024\n\nVrije Universiteit Amsterdam, Netherlands\n\n\nDeveloped, optimized, and compared machine learning models using Python libraries such as NumPy, SciPy, and TensorFlow.\nConducted data preprocessing and statistical analysis using Python, R and Docker along with data visualization in Matplotlib, Seaborn, and Adobe Illustrator.\nManaged projects and supervised student internships.\nGave workshops on version control using GitHub and taught modeling classes to BSc students in AI and Cognitive Psychology.\nPresented project outcomes at international conferences.\n\n\n\n\nResearch Assistant | 2017\n\nDonders Centre for Cognition, Nijmegen, Netherlands\n\n\nResponsible for data management, cleaning, and statistical analysis using R and MATLAB.\nTroubleshot hardware and software systems of robotic devices (Arduino) for optimal performance and safety compliance."
+  },
+  {
+    "objectID": "docs/index.html#education",
+    "href": "docs/index.html#education",
+    "title": "Inês S. Veríssimo",
+    "section": "Education",
+    "text": "Education\n\nPhD | 2018 - 2024\n\nVrije Universiteit Amsterdam, Netherlands\nCognitive Neuroscience\n\n\n\nMSc | 2015 - 2018\n\nUniversity of Lisbon, Portugal\nBiomedical and Biophysics Engineering - Medical Signals and Imaging\n\n\n\nBSc | 2011 - 2015\n\nUniversity of Lisbon, Portugal\nBiomedical and Biophysics Engineering"
+  },
+  {
+    "objectID": "docs/index.html#skills",
+    "href": "docs/index.html#skills",
+    "title": "Inês S. Veríssimo",
+    "section": "Skills",
+    "text": "Skills\n\nProgramming\nPython, R, MATLAB, Bash, SQL, Unix/Linux\n\n\nEditing\nMarkdown, LaTeX, Adobe Illustrator\n\n\nLanguages\nPortuguese (Native), English (Proficient), French (Pre-Intermediate)"
   }
 ]

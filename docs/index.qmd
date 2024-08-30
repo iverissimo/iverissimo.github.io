@@ -1,0 +1,74 @@
+
+---
+#title: "CV"
+page-layout: full
+title-block-bannerrR: false
+---
+
+<br/>
+
+Click [here](resume.html) to download my resume. 
+
+<br/>
+
+## **Work Experience**
+
+#### **Researcher** | 2018 - 2024
+##### Vrije Universiteit Amsterdam, Netherlands
+
+---
+
+- Developed, optimized, and compared machine learning models using `Python` libraries such as `NumPy`, `SciPy`, and `TensorFlow`.
+
+- Conducted data preprocessing and statistical analysis using `Python`, `R` and `Docker` along with data visualization in `Matplotlib`, `Seaborn`, and `Adobe Illustrator`.
+
+- Managed projects and supervised student internships.
+
+- Gave workshops on version control using `GitHub` and taught modeling classes to BSc students in AI and Cognitive Psychology.
+
+- Presented project outcomes at international conferences.
+
+
+#### **Research Assistant** | 2017
+##### Donders Centre for Cognition, Nijmegen, Netherlands
+
+---
+
+- Responsible for data management, cleaning, and statistical analysis using `R` and `MATLAB`.
+
+- Troubleshot hardware and software systems of robotic devices (`Arduino`) for optimal performance and safety compliance.
+
+<br/>
+
+## **Skills**
+
+#### Programming
+
+Python, R, MATLAB, Bash, SQL, Unix/Linux 
+
+#### Editing
+
+Markdown, LaTeX, Adobe Illustrator
+
+#### Languages
+
+Portuguese (_Native_), English (_Proficient_), French (_Pre-Intermediate_)
+
+<br/>
+
+## **Education**
+
+#### **PhD** | 2018 - 2024
+##### Vrije Universiteit Amsterdam, Netherlands
+
+Cognitive Neuroscience
+
+#### **MSc** | 2015 - 2018
+##### University of Lisbon, Portugal
+
+Biomedical and Biophysics Engineering - _Medical Signals and Imaging_
+
+#### **BSc** | 2011 - 2015
+##### University of Lisbon, Portugal
+
+Biomedical and Biophysics Engineering
