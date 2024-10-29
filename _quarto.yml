@@ -1,6 +1,7 @@
 project:
   type: website
   output-dir: ISV
+  resources: projects
 
 website:
   title: "Inês S. Veríssimo"
