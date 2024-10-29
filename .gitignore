@@ -1,6 +1,6 @@
 /.quarto/
 /_site/
-google*
+google*.html
 
 ###################################
 # general ignore patterns

@@ -12,7 +12,13 @@ image: Fig_FaceReversals.png
 title: Brain maps
 ---
 
-In this project I wanted to examine how the brain integrates information from different senses, like sight and touch. Using advanced MRI techniques, image processing and machine learning models, I created detailed maps of how the brain organizes visual and body-related information. Curious on how it looks? Click [here](https://iverissimo.github.io/projects/visuomotor_maps/sub-01/) to explore an inflated brain.
+In this project I wanted to examine how the brain integrates information from different senses, like sight and touch. Using advanced MRI techniques, image processing and machine learning models, I created detailed maps of how the brain organizes visual and body-related information. 
+
+<p align="center">
+  <video autoplay loop muted src="brain_maps.mov" width="400px"></video>
+</p>
+
+Curious on how it looks? Click [here](https://iverissimo.github.io/projects/visuomotor_maps/sub-01/) to explore an inflated brain.
 
 
 This work was presented at the [Vision Sciences Society Annual Meeting](https://www.visionsciences.org/) 2022 Edition, in St. Pete Beach, Florida, USA. Click [here](https://jov.arvojournals.org/article.aspx?articleid=2784532) to read the conference abstract.
