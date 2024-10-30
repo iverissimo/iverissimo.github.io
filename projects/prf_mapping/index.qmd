@@ -1,0 +1,33 @@
+---
+categories:
+- academic research
+- software development
+- experimental design
+#citation: true
+date: 2024-01-01
+date-format: "YYYY"
+description: 'How to build and run a visual neuroscience experiment.'
+#google-scholar: true
+image: Fig_FaceReversals.png
+title: Programming (visual) experiments in Python
+---
+
+In most visual neuroscience experiments, researchers display visual stimuli - like expanding circles or rotating checkerboards — while participants lie in an MRI scanner. By tracking which areas of the visual cortex light up in response to these patterns, we can map out how different regions of the brain correspond to specific parts of our visual field.
+
+<p align="center">
+  <video autoplay loop muted src="HCPpRFbold.mp4" width="500px"></video>
+</p>
+
+Designing these experiments requires fine-tuning the types of stimuli to be used, their timing, and repetition to get clean, reliable data that's easy to interpret.
+
+<p align="center">
+  <video autoplay loop muted src="prf_task.mov" width="300px"></video>
+  <video autoplay loop muted src="fa_task.mov" width="300px"></video>
+</p>
+
+Curious to see how an experimental stimulus code works? Check out my [project repository](https://github.com/iverissimo/FAMpRF_Experiment/tree/main)! In this project, I designed a new mapping protocol to explore how attention shapes the brain’s processing of visual information.
+
+
+
+
+

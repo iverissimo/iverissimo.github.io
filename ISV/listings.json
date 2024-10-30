@@ -2,6 +2,7 @@
   {
     "listing": "/projects/projects.html",
     "items": [
+      "/projects/prf_mapping/index.html",
       "/projects/searching_clutter/index.html",
       "/projects/visuomotor_maps/index.html"
     ]

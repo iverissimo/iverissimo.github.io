@@ -4,7 +4,7 @@ categories:
 - statistics
 - eye movements
 #citation: true
-date: 2024-01-05
+date: 2023-08-27
 date-format: "YYYY"
 description: 'How do we find what we are looking for? Understanding visual search through eye movements.'
 #google-scholar: true

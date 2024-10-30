@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "projects/prf_mapping/index.html",
+    "href": "projects/prf_mapping/index.html",
+    "title": "Programming (visual) experiments in Python",
+    "section": "",
+    "text": "In most visual neuroscience experiments, researchers display visual stimuli - like expanding circles or rotating checkerboards — while participants lie in an MRI scanner. By tracking which areas of the visual cortex light up in response to these patterns, we can map out how different regions of the brain correspond to specific parts of our visual field.\n\n\n\n\nDesigning these experiments requires fine-tuning the types of stimuli to be used, their timing, and repetition to get clean, reliable data that’s easy to interpret.\n\n\n\n\n\n\nCurious to see how an experimental stimulus code works? Check out my project repository! In this project, I designed a new mapping protocol to explore how attention shapes the brain’s processing of visual information."
+  },
+  {
     "objectID": "projects/visuomotor_maps/index.html",
     "href": "projects/visuomotor_maps/index.html",
     "title": "Brain maps",
@@ -11,7 +18,7 @@
     "href": "projects/projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Searching through clutter\n\n\n\n\n\n\n\nacademic research\n\n\nstatistics\n\n\neye movements\n\n\n\n\nHow do we find what we are looking for? Understanding visual search through eye movements.\n\n\n\n\n\n\nJan 5, 2024\n\n\n\n\n\n\n  \n\n\n\n\nBrain maps\n\n\n\n\n\n\n\nacademic research\n\n\nmachine learning\n\n\nimage processing\n\n\n\n\nUsing neuroimaging data and ML models to map the human visual and motor systems.\n\n\n\n\n\n\nDec 5, 2022\n\n\n\n\n\n\nNo matching items"
+    "text": "Programming (visual) experiments in Python\n\n\n\n\n\n\n\nacademic research\n\n\nsoftware development\n\n\nexperimental design\n\n\n\n\nHow to build and run a visual neuroscience experiment.\n\n\n\n\n\n\nJan 1, 2024\n\n\n\n\n\n\n  \n\n\n\n\nSearching through clutter\n\n\n\n\n\n\n\nacademic research\n\n\nstatistics\n\n\neye movements\n\n\n\n\nHow do we find what we are looking for? Understanding visual search through eye movements.\n\n\n\n\n\n\nAug 27, 2023\n\n\n\n\n\n\n  \n\n\n\n\nBrain maps\n\n\n\n\n\n\n\nacademic research\n\n\nmachine learning\n\n\nimage processing\n\n\n\n\nUsing neuroimaging data and ML models to map the human visual and motor systems.\n\n\n\n\n\n\nDec 5, 2022\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "projects/searching_clutter/index.html",
