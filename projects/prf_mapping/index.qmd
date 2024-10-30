@@ -8,7 +8,7 @@ date: 2024-01-01
 date-format: "YYYY"
 description: 'How to build and run a visual neuroscience experiment.'
 #google-scholar: true
-image: Fig_FaceReversals.png
+image: experiment_schema.png
 title: Programming (visual) experiments in Python
 ---
 
